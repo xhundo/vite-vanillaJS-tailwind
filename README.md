@@ -16,6 +16,9 @@
  ```bash
 $ npm run dev
  ```
+ 
+ ![vite boiler](https://user-images.githubusercontent.com/98115017/226140607-8d117e69-6ce0-4aa0-8c45-73588f12517d.jpg)
+
 
  
  
