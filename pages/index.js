@@ -7,7 +7,7 @@ document.querySelector('#app').innerHTML = `
   <div>
   <div class="flex p-6">
     <a href="https://vitejs.dev" target="_blank">
-      <img src="${viteLogo}" class="h-24 mr-6" alt="Vite logo" />
+      <img src="${viteLogo}" class="md:text-white h-24 mr-6" alt="Vite logo" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="${javascriptLogo}" class="h-24" alt="JavaScript logo" />
